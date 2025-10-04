@@ -1,0 +1,2 @@
+This is just a quick definition:
+reusable utility code, helper functions, or modules that aren’t tied to a specific component or page

@@ -1,0 +1,2 @@
+This is just quick definition:
+self-contained, reusable piece of UI that can manage its own structure, style, and behavior.
