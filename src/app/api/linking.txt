@@ -1,0 +1,2 @@
+this is just a quick definition:
+endpoints that your frontend can call to interact with the backend
